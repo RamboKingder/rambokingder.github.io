@@ -1,5 +1,6 @@
 # rambokingder.github.io
-[链接：RamboKing's website](rambokingder.github.io)
+[链接：RamboKing's website](https://rambokingder.github.io)
+
 这是我大一入学时做的网页
 
 当时是因为报名了学校的网页制作大赛
